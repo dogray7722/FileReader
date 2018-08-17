@@ -1,0 +1,22 @@
+
+{date}
+
+Subject: {salutation}
+
+From: {lawyer}
+
+I am hoping this letter finds you well.  My name is {lawyer}.
+
+I am the personal attorney of The Right Honourable {title}.
+
+On May 15th of this year, my client, his wife and their children were {crisis}.
+
+I have been making repeated inquiries attempting to find my client's next of kin, and have decided to contact you since you share my client's last name.  I am seeking your assistance in repatriating the fund valued at {bigmoney}  euros left behind by my client before it is confiscated by the government or declared unserviceable by the {bank} where this ENORMOUS AMOUNT OF MONEY is held.
+
+If you agree to assist, please respond to this inquiry, with you name, age, contact address, occupation, and private phone number.  Please respond urgently and keep this transaction confidential AT ALL COSTS!
+
+Sincerely,
+
+{lawyer}
+
+
